@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>Web3 撸空投</title>
+    <link href="/2023/03/30/web3-airdrop/"/>
+    <url>/2023/03/30/web3-airdrop/</url>
+    
+    <content type="html"><![CDATA[<p>测试</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>怎么买最便宜的域名？强烈推荐 Namesilo 以及其他域名服务商对比（长期更新）</title>
+    <link href="/2023/03/20/buy-domain-on-namesilo/"/>
+    <url>/2023/03/20/buy-domain-on-namesilo/</url>
+    
+    <content type="html"><![CDATA[<p>以下一些资料来自于网络</p><p>我刚刚开始接触建站的时候，用的是siteground，后来是用 goddady，后来注册的域名多了以后，你会发现 goddady 有点坑，注册费用高不说而且隐私保护也是额外收费的。所以这些年也浪费了不少钱，后来因为做外贸需要可能会建大量的站群，就找到了 Namesilo 这个域名服务商。</p><hr><h3 id="Namesilo最大的优势是便宜"><a href="#Namesilo最大的优势是便宜" class="headerlink" title="Namesilo最大的优势是便宜"></a>Namesilo最大的优势是便宜</h3><p>Namesilo是一家ICANN认证的域名注册商，成立于2009年，价格低是这家公司的最大优势。也许你是第一次听说这家公司，因为他们没有在互联网上做任何广告，这也是便宜的最大原因。</p><h3 id="除了便宜之外，他们的还有3个非常大的优点"><a href="#除了便宜之外，他们的还有3个非常大的优点" class="headerlink" title="除了便宜之外，他们的还有3个非常大的优点"></a>除了便宜之外，他们的还有3个非常大的优点</h3><ul><li>  <strong>赠送免费的隐私保护</strong>，这个选项在其他的域名服务商要收取2-10美元不等的价格，而<a href="https://www.namesilo.com/pricing?rid=6e9be85vt">namesilo</a>是免费赠送的。隐私保护你可能没有感觉，但是在你遇到别人的骚扰或者攻击的时候，你会意识到它有多重要。</li><li>  <strong>没有隐藏费用</strong>，续订费用不会增加，就这一个功能就能吊打众多域名服务商了，无论是国内的阿里云腾讯云，还是国外的大部分域名服务商，域名续订费用都会比第一年高。</li><li>  <strong>支付方便</strong>，支付各种主流的支付通道，对中国买家来说最方便的是支持支付宝，现在已经不支持微信支付了。</li></ul><p>Namesilo之前一直号称是全世界最便宜的域名注册商，不过最近他们也涨价了， .com域名以前是$8.99，现在涨到了$9.95，严格来说已经不能算是最便宜的域名注册商了。不过新用户注册可以领取1美元的优惠券→【w0wio】，算下来依然是最便宜。</p><h3 id="Namecheap-听说也非常不错"><a href="#Namecheap-听说也非常不错" class="headerlink" title="Namecheap 听说也非常不错"></a>Namecheap 听说也非常不错</h3><p>但是我没有用过，客服随时在线可以处理问题，相对来说缺点就是续费会贵点，不支持支付宝支付</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>domian</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Copilot 学习笔记</title>
+    <link href="/2023/03/18/copilot-note/"/>
+    <url>/2023/03/18/copilot-note/</url>
+    
+    <content type="html"><![CDATA[<h1 id="Copilot-学习笔记"><a href="#Copilot-学习笔记" class="headerlink" title="Copilot 学习笔记"></a>Copilot 学习笔记</h1><h2 id="1-什么是-Copilot"><a href="#1-什么是-Copilot" class="headerlink" title="1. 什么是 Copilot"></a>1. 什么是 Copilot</h2><p>Copilot 是 Github 推出的一个代码自动补全工具，可以帮助开发者快速编写代码。</p><h2 id="2-Copilot-的使用"><a href="#2-Copilot-的使用" class="headerlink" title="2. Copilot 的使用"></a>2. Copilot 的使用</h2><h3 id="2-1-安装-Copilot"><a href="#2-1-安装-Copilot" class="headerlink" title="2.1. 安装 Copilot"></a>2.1. 安装 Copilot</h3><p>Copilot 目前只支持 VSCode，所以需要安装 VSCode。</p><h3 id="2-2-使用-Copilot"><a href="#2-2-使用-Copilot" class="headerlink" title="2.2. 使用 Copilot"></a>2.2. 使用 Copilot</h3><p>在 VSCode 中打开一个项目，然后在项目中打开一个文件，就可以使用 Copilot 了。</p><p>Copilot 会自动在文件中插入代码片段，可以通过 Tab 键来选择。</p><h2 id="3-Copilot-的原理"><a href="#3-Copilot-的原理" class="headerlink" title="3. Copilot 的原理"></a>3. Copilot 的原理</h2><p>Copilot 是通过机器学习来实现的，它会根据你的代码来学习，然后根据学习的结果来生成代码片段。</p><h2 id="4-Copilot-怎么安装"><a href="#4-Copilot-怎么安装" class="headerlink" title="4. Copilot 怎么安装"></a>4. Copilot 怎么安装</h2><p>Copilot 是 Github 推出的一个代码自动补全工具，可以帮助开发者快速编写代码。</p><h2 id="5-Copilot-的使用"><a href="#5-Copilot-的使用" class="headerlink" title="5. Copilot 的使用"></a>5. Copilot 的使用</h2><h3 id="5-1-安装-Copilot"><a href="#5-1-安装-Copilot" class="headerlink" title="5.1. 安装 Copilot"></a>5.1. 安装 Copilot</h3><p>Copilot 目前只支持 VSCode，所以需要安装 VSCode。</p><h3 id="5-2-使用-Copilot"><a href="#5-2-使用-Copilot" class="headerlink" title="5.2. 使用 Copilot"></a>5.2. 使用 Copilot</h3><p>在 VSCode 中打开一个项目，然后在项目中打开一个文件，就可以使用 Copilot 了。</p><p>Copilot 会自动在文件中插入代码片段，可以通过 Tab 键来选择。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>copilot</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Chatgpt 笔记</title>
+    <link href="/2023/03/18/chatgpt-note/"/>
+    <url>/2023/03/18/chatgpt-note/</url>
+    
+    <content type="html"><![CDATA[<h1 id="Chatgpt-笔记"><a href="#Chatgpt-笔记" class="headerlink" title="Chatgpt 笔记"></a>Chatgpt 笔记</h1><h2 id="1-什么是-Chatgpt"><a href="#1-什么是-Chatgpt" class="headerlink" title="1. 什么是 Chatgpt"></a>1. 什么是 Chatgpt</h2><p>Chatgpt 是一个聊天机器人，它可以根据你的输入来生成回复。</p><h2 id="2-如何在Vscode-使用-Chatgpt"><a href="#2-如何在Vscode-使用-Chatgpt" class="headerlink" title="2. 如何在Vscode 使用 Chatgpt"></a>2. 如何在Vscode 使用 Chatgpt</h2>]]></content>
+    
+    
+    <categories>
+      
+      <category>chatgpt</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Wordpress 学习笔记</title>
+    <link href="/2023/03/18/wordpress-note/"/>
+    <url>/2023/03/18/wordpress-note/</url>
+    
+    <content type="html"><![CDATA[<h1 id="Wordpress-学习笔记"><a href="#Wordpress-学习笔记" class="headerlink" title="Wordpress 学习笔记"></a>Wordpress 学习笔记</h1><h3 id="Wordpress-搭建的几个方式"><a href="#Wordpress-搭建的几个方式" class="headerlink" title="Wordpress 搭建的几个方式"></a>Wordpress 搭建的几个方式</h3><h3 id="Wordpress-搭建外贸电商必要插件"><a href="#Wordpress-搭建外贸电商必要插件" class="headerlink" title="Wordpress 搭建外贸电商必要插件"></a>Wordpress 搭建外贸电商必要插件</h3><ul><li><a href="https://woocommerce.com/">WooCommerce</a></li><li><a href="https://woocommerce.com/products/paypal-checkout/">WooCommerce PayPal Checkout Gateway</a></li></ul>]]></content>
+    
+    
+    <categories>
+      
+      <category>wordpress</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>linux 学习笔记</title>
+    <link href="/2023/03/18/linux-note/"/>
+    <url>/2023/03/18/linux-note/</url>
+    
+    <content type="html"><![CDATA[<h3 id="Linux-常用命令"><a href="#Linux-常用命令" class="headerlink" title="Linux 常用命令"></a>Linux 常用命令</h3><h4 id="1-查看文件内容"><a href="#1-查看文件内容" class="headerlink" title="1. 查看文件内容"></a>1. 查看文件内容</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-built_in">cat</span> filename<br></code></pre></td></tr></table></figure><h4 id="2-进入目录"><a href="#2-进入目录" class="headerlink" title="2. 进入目录"></a>2. 进入目录</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-built_in">cd</span> /home<br></code></pre></td></tr></table></figure><h4 id="3-查看目录下的文件"><a href="#3-查看目录下的文件" class="headerlink" title="3. 查看目录下的文件"></a>3. 查看目录下的文件</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-built_in">ls</span><br></code></pre></td></tr></table></figure><h4 id="4-查看当前目录"><a href="#4-查看当前目录" class="headerlink" title="4. 查看当前目录"></a>4. 查看当前目录</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-built_in">pwd</span><br></code></pre></td></tr></table></figure><h3 id="不同版本-Linux-的命令区别"><a href="#不同版本-Linux-的命令区别" class="headerlink" title="不同版本 Linux 的命令区别"></a>不同版本 Linux 的命令区别</h3>]]></content>
+    
+    
+    <categories>
+      
+      <category>linux</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>外贸电商笔记</title>
+    <link href="/2023/03/18/ecoomerce-note/"/>
+    <url>/2023/03/18/ecoomerce-note/</url>
+    
+    <content type="html"><![CDATA[<h3 id="外贸电商怎么做"><a href="#外贸电商怎么做" class="headerlink" title="外贸电商怎么做"></a>外贸电商怎么做</h3>]]></content>
+    
+    
+    <categories>
+      
+      <category>ecoomerce</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Web3 笔记</title>
+    <link href="/2023/03/18/web3-note/"/>
+    <url>/2023/03/18/web3-note/</url>
+    
+    <content type="html"><![CDATA[<h1 id="Web3-笔记"><a href="#Web3-笔记" class="headerlink" title="Web3 笔记"></a>Web3 笔记</h1><h2 id="智能合约部署方法"><a href="#智能合约部署方法" class="headerlink" title="智能合约部署方法"></a>智能合约部署方法</h2><h3 id="1-通过-Remix-IDE"><a href="#1-通过-Remix-IDE" class="headerlink" title="1. 通过 Remix IDE"></a>1. 通过 Remix IDE</h3><h3 id="2-通过-Truffle"><a href="#2-通过-Truffle" class="headerlink" title="2. 通过 Truffle"></a>2. 通过 Truffle</h3><h3 id="3-通过-Hardhat"><a href="#3-通过-Hardhat" class="headerlink" title="3. 通过 Hardhat"></a>3. 通过 Hardhat</h3><h2 id="智能合约测试方法"><a href="#智能合约测试方法" class="headerlink" title="智能合约测试方法"></a>智能合约测试方法</h2><p>Hardhat 安装和使用</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>web3</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>web3</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Hexo 命令用法</title>
+    <link href="/2023/03/18/hexo-usage/"/>
+    <url>/2023/03/18/hexo-usage/</url>
+    
+    <content type="html"><![CDATA[<h3 id="Hexo-新建文章"><a href="#Hexo-新建文章" class="headerlink" title="Hexo 新建文章"></a>Hexo 新建文章</h3><p><code>hexo new [postname]</code></p><h3 id="Hexo-新建分类"><a href="#Hexo-新建分类" class="headerlink" title="Hexo 新建分类"></a>Hexo 新建分类</h3><p><code>hexo new page categories</code></p><p>执行命令后，会在source目录下生成categories文件夹，然后在categories文件夹下新建index.md文件，编辑成下面的样式：</p><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><code class="hljs yaml"><span class="hljs-meta">---</span><br><span class="hljs-attr">title:</span> <span class="hljs-string">categories</span><br><span class="hljs-attr">date:</span> <span class="hljs-number">2023-03-17 21:57:46</span><br><span class="hljs-attr">type:</span> <span class="hljs-string">&quot;categories&quot;</span><br><span class="hljs-attr">layout:</span> <span class="hljs-string">&quot;category&quot;</span><br><span class="hljs-attr">comments:</span> <span class="hljs-literal">false</span><br><span class="hljs-meta">---</span><br></code></pre></td></tr></table></figure><p>主题layout文件夹是category.ejs文件，当layout: “category”时，会自动调用category.ejs文件,分类页面就会自动生成了。</p><p>在文章中声明文章分类</p><p>编写文章时需要在文章页头部声明文章分类，如下：</p><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs yaml"><span class="hljs-meta">---</span><br><span class="hljs-attr">title:</span> <span class="hljs-string">文章名称</span><br><span class="hljs-attr">date:</span> <span class="hljs-number">2023-03-17 21:57:46</span><br><span class="hljs-attr">categories:</span> <span class="hljs-string">分类名称</span><br><span class="hljs-meta">---</span><br></code></pre></td></tr></table></figure><p>配置_config.yml文件</p><p>搜索 menu 字段，将分类的链接地址改为 categories，我用的是fluid主题，已经设置好了不需要再设置一次，如果你用的是其他主题，需要自己设置一下。</p><h3 id="Hexo-修改背景图片"><a href="#Hexo-修改背景图片" class="headerlink" title="Hexo 修改背景图片"></a>Hexo 修改背景图片</h3><p>在主题配置文件_config.yml中找到background_image字段，将其值改为你想要的图片地址即可。</p><h3 id="修改-Hexo-关于页面"><a href="#修改-Hexo-关于页面" class="headerlink" title="修改 Hexo 关于页面"></a>修改 Hexo 关于页面</h3><p>在主题配置文件_config.yml中找到about字段，将其值改为你想要的内容即可。</p><h3 id="Hexo-Fluid-分类不折叠"><a href="#Hexo-Fluid-分类不折叠" class="headerlink" title="Hexo Fluid 分类不折叠"></a>Hexo Fluid 分类不折叠</h3><p>在主题配置文件_config.yml中找到category_fold字段，将其值改为false即可。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>Hexo</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>我的博客流水账</title>
+    <link href="/2023/03/17/my-first-blog/"/>
+    <url>/2023/03/17/my-first-blog/</url>
+    
+    <content type="html"><![CDATA[<h2 id="最近学习了很多东西，以下是简单的流水账"><a href="#最近学习了很多东西，以下是简单的流水账" class="headerlink" title="最近学习了很多东西，以下是简单的流水账"></a>最近学习了很多东西，以下是简单的流水账</h2><h3 id="Hexo-是静态博客框架，主题选择推荐"><a href="#Hexo-是静态博客框架，主题选择推荐" class="headerlink" title="Hexo 是静态博客框架，主题选择推荐"></a>Hexo 是静态博客框架，主题选择推荐</h3><h3 id="Fluid-是-Hexo-主题"><a href="#Fluid-是-Hexo-主题" class="headerlink" title="Fluid 是 Hexo 主题"></a>Fluid 是 Hexo 主题</h3><h3 id="静态页面-放在-Github-Page-上面"><a href="#静态页面-放在-Github-Page-上面" class="headerlink" title="静态页面 放在 Github Page 上面"></a>静态页面 放在 Github Page 上面</h3><h3 id="Velcel-部署自定义域名和CDN加速"><a href="#Velcel-部署自定义域名和CDN加速" class="headerlink" title="Velcel 部署自定义域名和CDN加速"></a>Velcel 部署自定义域名和CDN加速</h3><h3 id="Pigco-搭建-Github-图床"><a href="#Pigco-搭建-Github-图床" class="headerlink" title="Pigco 搭建 Github 图床"></a>Pigco 搭建 Github 图床</h3><h3 id="Typora-暂时用来写Markdown-文件"><a href="#Typora-暂时用来写Markdown-文件" class="headerlink" title="Typora 暂时用来写Markdown 文件"></a>Typora 暂时用来写Markdown 文件</h3><h3 id="Vscode-作为编辑器-配合-Copilot-代码机器人"><a href="#Vscode-作为编辑器-配合-Copilot-代码机器人" class="headerlink" title="Vscode 作为编辑器 配合 Copilot 代码机器人"></a>Vscode 作为编辑器 配合 Copilot 代码机器人</h3><h3 id="增加坚果云同步MD文件，同步不同设备之间进行文档备份"><a href="#增加坚果云同步MD文件，同步不同设备之间进行文档备份" class="headerlink" title="增加坚果云同步MD文件，同步不同设备之间进行文档备份"></a>增加坚果云同步MD文件，同步不同设备之间进行文档备份</h3><h3 id="增加多平台发布功能（Hexo-两个主题站-Wordpress-一个站）"><a href="#增加多平台发布功能（Hexo-两个主题站-Wordpress-一个站）" class="headerlink" title="增加多平台发布功能（Hexo 两个主题站 + Wordpress 一个站）"></a>增加多平台发布功能（Hexo 两个主题站 + Wordpress 一个站）</h3><h3 id="Wordpress-搭建-LiteSpeed-加速及设置"><a href="#Wordpress-搭建-LiteSpeed-加速及设置" class="headerlink" title="Wordpress 搭建 LiteSpeed 加速及设置"></a>Wordpress 搭建 LiteSpeed 加速及设置</h3><h3 id="阿里云图床设置-CDN-加速-Pigco"><a href="#阿里云图床设置-CDN-加速-Pigco" class="headerlink" title="阿里云图床设置 + CDN 加速 + Pigco"></a>阿里云图床设置 + CDN 加速 + Pigco</h3><h3 id="Obisidian-设置一键发布到-Wordpress"><a href="#Obisidian-设置一键发布到-Wordpress" class="headerlink" title="Obisidian 设置一键发布到 Wordpress"></a>Obisidian 设置一键发布到 Wordpress</h3><h3 id="宝塔设置"><a href="#宝塔设置" class="headerlink" title="宝塔设置"></a>宝塔设置</h3><h3 id="Wordpress-主题推荐"><a href="#Wordpress-主题推荐" class="headerlink" title="Wordpress 主题推荐"></a>Wordpress 主题推荐</h3><h3 id="Windows-上优雅的的-ssh-工具-Tabby"><a href="#Windows-上优雅的的-ssh-工具-Tabby" class="headerlink" title="Windows 上优雅的的 ssh 工具 Tabby"></a>Windows 上优雅的的 ssh 工具 Tabby</h3><h3 id="Vscode-利用-AI-帮你写代码和技术博客"><a href="#Vscode-利用-AI-帮你写代码和技术博客" class="headerlink" title="Vscode 利用 AI 帮你写代码和技术博客"></a>Vscode 利用 AI 帮你写代码和技术博客</h3><h3 id="Wordpress-搭建外贸电商-Alidropship全流程"><a href="#Wordpress-搭建外贸电商-Alidropship全流程" class="headerlink" title="Wordpress 搭建外贸电商 Alidropship全流程"></a>Wordpress 搭建外贸电商 Alidropship全流程</h3><h3 id="如何利用图床优化-Wordpress-的商品图"><a href="#如何利用图床优化-Wordpress-的商品图" class="headerlink" title="如何利用图床优化 Wordpress 的商品图"></a>如何利用图床优化 Wordpress 的商品图</h3><h3 id="Alidropship-设置"><a href="#Alidropship-设置" class="headerlink" title="Alidropship 设置"></a>Alidropship 设置</h3><h3 id="如何注册一张不记名-Visa-和-Master-信用卡并且支付"><a href="#如何注册一张不记名-Visa-和-Master-信用卡并且支付" class="headerlink" title="如何注册一张不记名 Visa 和 Master 信用卡并且支付"></a>如何注册一张不记名 Visa 和 Master 信用卡并且支付</h3><h3 id="怎么选择服务器"><a href="#怎么选择服务器" class="headerlink" title="怎么选择服务器"></a>怎么选择服务器</h3><h3 id="怎么选择好用的-VPN-梯子"><a href="#怎么选择好用的-VPN-梯子" class="headerlink" title="怎么选择好用的 VPN 梯子"></a>怎么选择好用的 VPN 梯子</h3><h3 id="Windows-和-Mac-上好用的-VPN-梯子-Clash-推荐"><a href="#Windows-和-Mac-上好用的-VPN-梯子-Clash-推荐" class="headerlink" title="Windows 和 Mac 上好用的 VPN 梯子 Clash 推荐"></a>Windows 和 Mac 上好用的 VPN 梯子 Clash 推荐</h3><h3 id="CloudFlare-使用及设置"><a href="#CloudFlare-使用及设置" class="headerlink" title="CloudFlare 使用及设置"></a>CloudFlare 使用及设置</h3><h3 id="如何免费拥有自定义域名邮箱"><a href="#如何免费拥有自定义域名邮箱" class="headerlink" title="如何免费拥有自定义域名邮箱"></a>如何免费拥有自定义域名邮箱</h3><h3 id="平替-宝塔的一个国外Linux面板-CyberPanel"><a href="#平替-宝塔的一个国外Linux面板-CyberPanel" class="headerlink" title="平替 宝塔的一个国外Linux面板 CyberPanel"></a>平替 宝塔的一个国外Linux面板 CyberPanel</h3><hr><h3 id="待做"><a href="#待做" class="headerlink" title="待做"></a>待做</h3><p>公众号、简书、知乎、其他技术平台</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>wordpress</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>使用 GitHub Actions 自动部署 Hexo Keep 主题静态博客</title>
+    <link href="/2023/03/17/blog-build-hexo-keep/"/>
+    <url>/2023/03/17/blog-build-hexo-keep/</url>
+    
+    <content type="html"><![CDATA[<p>我们搭建个人博客的初衷，不就是为了能好好地写文章吗？一切重复且枯燥的工作都应该交给程序去自动完成，尤其是静态博客编译和部署，<strong>我们只需要专注文字</strong>。</p><h2 id="什么是-GitHub-Actions"><a href="#什么是-GitHub-Actions" class="headerlink" title="什么是 GitHub Actions"></a><a href="https://keep.xpoet.cn/2021/03/%E4%BD%BF%E7%94%A8-GitHub-Action-%E8%87%AA%E5%8A%A8%E9%83%A8%E7%BD%B2-Hexo-%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2/#%E4%BB%80%E4%B9%88%E6%98%AF-GitHub-Actions" title="什么是 GitHub Actions"></a>什么是 GitHub Actions</h2><p>GitHub Actions 是 GitHub 的持续集成服务。持续集成由很多操作组成，比如抓取代码、运行测试、登录远程服务器，发布到第三方服务等等。GitHub 把这些操作就称为 actions。</p><p>很多操作在不同项目里面是类似的，完全可以共享。GitHub 允许开发者把每个操作写成独立的脚本文件，存放到代码仓库，使得其他开发者可以引用。</p><p>如果你需要某个 action，不必自己写复杂的脚本，直接引用他人写好的 action 即可，整个持续集成过程，就变成了一个 actions 的组合。这就是 GitHub Actions 最特别的地方。</p><p>本例就使用由 <a href="https://github.com/theme-keep">theme-keep</a> 组织提供的 action <code>hexo-deploy-github-pages-action</code> 来自动部署 Hexo。</p><p><img src="https://cdn.w0w.io/img/202303210457048.svg"></p><h2 id="使用-GitHub-Actions-自动部署的好处"><a href="#使用-GitHub-Actions-自动部署的好处" class="headerlink" title="使用 GitHub Actions 自动部署的好处"></a>使用 GitHub Actions 自动部署的好处</h2><ul><li>可以直接在线编辑 <code>md</code> 文件，立即生效。假设你已发布一篇文章，过几天你在别的电脑上浏览发现有几个明显的错别字，这是完全不能容忍的。但此时你电脑上又没有 <code>hexo + node.js + git</code> 等完整的开发环境，重新配置开发环境明显不现实。如果使用 CI，你可以直接用浏览器访问 GitHub 上的项目仓库，直接编辑带错别字的 <code>md</code> 文章，改完，在线提交，稍等片刻，你的网站就自动更新了。</li><li>如果手动部署，需要先执行 <code>hexo g</code> 编译生成静态文件， 然后推送 <code>public</code> 整个文件夹到 GitHub 上，当后期网站文章、图片较多时候，很多时候连接 GitHub 不是那么顺畅，经常要傻等很长的上传时间。使用 GitHub Actions 自动部署，你只需 <code>push</code> _post 文件里单独的 <code>md</code> 文件即可，其他不用管，效率瞬间高了许多，其中的好处，谁用谁知道。</li><li>使用 GitHub Actions，你还可以一次性将这些静态博客页面部署到多个服务器上，例如：GitHub Pages、Gitee pages、七牛云、阿里云、腾讯云等等。</li><li>  …<h2 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h2></li></ul><p>本文以 Hexo + <a href="https://github.com/XPoet/hexo-theme-keep">Keep</a> 主题搭建博客为例，教你如何使用 GitHub Actions 将博客自动部署到 GitHub Pages。</p><h3 id="创建-GitHub-仓库"><a href="#创建-GitHub-仓库" class="headerlink" title="创建 GitHub 仓库"></a><a href="https://keep.xpoet.cn/2021/03/%E4%BD%BF%E7%94%A8-GitHub-Action-%E8%87%AA%E5%8A%A8%E9%83%A8%E7%BD%B2-Hexo-%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2/#%E5%88%9B%E5%BB%BA-GitHub-%E4%BB%93%E5%BA%93" title="创建 GitHub 仓库"></a>创建 GitHub 仓库</h3><p>创建两个 <a href="https://github.com/new">GitHub 仓库</a>，一个公共仓库和一个私有仓库。</p><ul><li>  <strong>私有仓库</strong>用来存储 Hexo 项目源代码。（保证你的重要信息不泄露）</li></ul>]]></content>
+    
+    
+    <categories>
+      
+      <category>hexo</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>零成本搭建静态博客 Hexo + Fluid 主题 + Github Page + Velcel +Pigco + 坚果云 + Obisidian</title>
+    <link href="/2023/03/17/blog-build/"/>
+    <url>/2023/03/17/blog-build/</url>
+    
+    <content type="html"><![CDATA[<h3 id="零成本搭建静态博客-Hexo-Fluid-主题-Github-Page-Velcel-Pigco-坚果云-Obisidian"><a href="#零成本搭建静态博客-Hexo-Fluid-主题-Github-Page-Velcel-Pigco-坚果云-Obisidian" class="headerlink" title="零成本搭建静态博客 Hexo + Fluid 主题 + Github Page + Velcel +Pigco + 坚果云 + Obisidian"></a>零成本搭建静态博客 Hexo + Fluid 主题 + Github Page + Velcel +Pigco + 坚果云 + Obisidian</h3><h3 id="测试"><a href="#测试" class="headerlink" title="测试"></a>测试</h3>]]></content>
+    
+    
+    <categories>
+      
+      <category>hexo</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
